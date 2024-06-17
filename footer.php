@@ -41,8 +41,6 @@
                                                 <li><a href="website-development-agency-in-delhi.php"><i class="fas fa-angle-right"></i>Website Development</a></li>
                                                 <li><a href="digital-marketing-agency-in-delhi.php"><i class="fas fa-angle-right"></i>Digital Marketing</a></li>
                                                 <li><a href="mobile-app-development-agency-in-delhi.php"><i class="fas fa-angle-right"></i>Mobile App Development</a></li>
-                                                <li><a href="ui-ux-design-agency-in-delhi.php"><i class="fas fa-angle-right"></i>UI/UX Design</a></li>
-                                                <li><a href="graphic-designing-agency-in-delhi.php"><i class="fas fa-angle-right"></i>Graphic Design</a></li>
                                             </ul>
                                         </div>
                                     </div>

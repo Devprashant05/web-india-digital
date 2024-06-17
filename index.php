@@ -245,9 +245,9 @@
                                 <div class="overlay-pattern" style="background-image: url(assets/images/shape/shape-40.png);"></div>
                             </div>
                             <figure class="image-box"><img src="assets/images/service/service-4.png" alt=""></figure>
-                            <h3><a href="service-details.php">Website Designing</a></h3>
+                            <h3><a href="website-designing-agency-in-delhi.php">Website Designing</a></h3>
                             <p>Crafting engaging websites that captivate audiences and drive results.</p>
-                            <div class="link"><a href="service-details.php"><i class="flaticon-next"></i>Read More</a></div>
+                            <div class="link"><a href="website-designing-agency-in-delhi.php"><i class="flaticon-next"></i>Read More</a></div>
                         </div>
                     </div>
                     <div class="service-block-four">
@@ -262,9 +262,9 @@
                                 <div class="overlay-pattern" style="background-image: url(assets/images/shape/shape-40.png);"></div>
                             </div>
                             <figure class="image-box"><img src="assets/images/service/service-5.png" alt=""></figure>
-                            <h3><a href="service-details.php">Website Development</a></h3>
+                            <h3><a href="website-development-agency-in-delhi.php">Website Development</a></h3>
                             <p>Building powerful online platforms for seamless user experiences.</p>
-                            <div class="link"><a href="service-details.php"><i class="flaticon-next"></i>Read More</a></div>
+                            <div class="link"><a href="website-development-agency-in-delhi.php"><i class="flaticon-next"></i>Read More</a></div>
                         </div>
                     </div>
                     <div class="service-block-four">
@@ -279,9 +279,9 @@
                                 <div class="overlay-pattern" style="background-image: url(assets/images/shape/shape-40.png);"></div>
                             </div>
                             <figure class="image-box"><img src="assets/images/service/service-6.png" alt=""></figure>
-                            <h3><a href="service-details.php">Mobile App Development</a></h3>
+                            <h3><a href="mobile-app-development-agency-in-delhi.php">Mobile App Development</a></h3>
                             <p>Creating intuitive mobile apps to enhance customer engagement and satisfaction.</p>
-                            <div class="link"><a href="service-details.php"><i class="flaticon-next"></i>Read More</a></div>
+                            <div class="link"><a href="mobile-app-development-agency-in-delhi.php"><i class="flaticon-next"></i>Read More</a></div>
                         </div>
                     </div>
                     <div class="service-block-four">
@@ -296,9 +296,9 @@
                                 <div class="overlay-pattern" style="background-image: url(assets/images/shape/shape-40.png);"></div>
                             </div>
                             <figure class="image-box"><img src="assets/images/service/service-6.png" alt=""></figure>
-                            <h3><a href="service-details.php">Graphic Designing</a></h3>
+                            <h3><a href="graphic-designing-agency-in-delhi.php">Graphic Designing</a></h3>
                             <p>Designing impactful visuals that tell your brand story effectively.</p>
-                            <div class="link"><a href="service-details.php"><i class="flaticon-next"></i>Read More</a></div>
+                            <div class="link"><a href="graphic-designing-agency-in-delhi.php"><i class="flaticon-next"></i>Read More</a></div>
                         </div>
                     </div>
                     <div class="service-block-four">
@@ -313,9 +313,9 @@
                                 <div class="overlay-pattern" style="background-image: url(assets/images/shape/shape-40.png);"></div>
                             </div>
                             <figure class="image-box"><img src="assets/images/service/service-6.png" alt=""></figure>
-                            <h3><a href="service-details.php">Digital Marketing</a></h3>
+                            <h3><a href="digital-marketing-agency-in-delhi.php">Digital Marketing</a></h3>
                             <p>Driving brand growth through targeted online strategies and campaigns.</p>
-                            <div class="link"><a href="service-details.php"><i class="flaticon-next"></i>Read More</a></div>
+                            <div class="link"><a href="digital-marketing-agency-in-delhi.php"><i class="flaticon-next"></i>Read More</a></div>
                         </div>
                     </div>
                 </div>

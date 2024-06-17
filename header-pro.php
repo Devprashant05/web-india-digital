@@ -32,7 +32,7 @@
                                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                         <ul class="navigation clearfix">
                                             <li><a href="index.php">Home</a></li> 
-                                            <li class="current dropdown"><a href="#">Company</a>
+                                            <li class="dropdown"><a href="#">Company</a>
                                                 <ul>
                                                     <li><a href="about.php">About Company<i class="flaticon-next"></i></a></li>
                                                     <li><a href="faq.php">FAQ's<i class="flaticon-next"></i></a></li>

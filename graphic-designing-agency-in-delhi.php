@@ -181,12 +181,12 @@
                     <div class="service-sidebar">
                     <ul class="sidebar-categories clearfix">
                             <li><a href="our-services.php"><h5>Our Services</h5><i class="flaticon-arrow"></i></a></li>
-                            <li><a href="website-designing-agency-in-delhi.php" class="active"><h5>Website Designing</h5><i class="flaticon-arrow"></i></a></li>
+                            <li><a href="website-designing-agency-in-delhi.php"><h5>Website Designing</h5><i class="flaticon-arrow"></i></a></li>
                             <li><a href="website-development-agency-in-delhi.php"><h5>Website Development</h5><i class="flaticon-arrow"></i></a></li>
                             <li><a href="digital-marketing-agency-in-delhi.php"><h5>Digital Marketing</h5><i class="flaticon-arrow"></i></a></li>
                             <li><a href="mobile-app-development-agency-in-delhi.php"><h5>Mobile App Development</h5><i class="flaticon-arrow"></i></a></li>
                             <li><a href="ui-ux-design-agency-in-delhi.php"><h5>UI/UX Design</h5><i class="flaticon-arrow"></i></a></li>
-                            <li><a href="graphic-designing-agency-in-delhi.php"><h5>Graphic Designing</h5><i class="flaticon-arrow"></i></a></li>
+                            <li><a href="graphic-designing-agency-in-delhi.php" class="active"><h5>Graphic Designing</h5><i class="flaticon-arrow"></i></a></li>
                         </ul>
                         <div class="sidebar-file">
                             <ul class="download-option clearfix">
