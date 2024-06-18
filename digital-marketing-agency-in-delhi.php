@@ -85,7 +85,7 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Search Engine Optimization (SEO)</h4>
                                             </div>
                                             <div class="inner">
                                                 <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
@@ -95,7 +95,7 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Social Media Optimization (SMO)</h4>
                                             </div>
                                             <div class="inner">
                                                 <p>Take a trivials example, which of us every undertakes some advantages.</p>
@@ -105,7 +105,7 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Pay-Per-Click Advertising (PPC)</h4>
                                             </div>
                                             <div class="inner">
                                                 <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
@@ -115,7 +115,7 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Online Reputation Management</h4>
                                             </div>
                                             <div class="inner">
                                                 <p>Take a trivials example, which of us every undertakes some advantages.</p>
@@ -125,7 +125,7 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Conversion Rate Optimization (CRO)</h4>
                                             </div>
                                             <div class="inner">
                                                 <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
@@ -135,7 +135,7 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Analytics & <br>Reporting</h4>
                                             </div>
                                             <div class="inner">
                                                 <p>Take a trivials example, which of us every undertakes some advantages.</p>

@@ -85,60 +85,60 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Custom Website Development</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Building tailored websites to meet your unique business needs.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>E-commerce Solutions</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Developing robust e-commerce platforms for seamless online shopping.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>API Integration</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Connecting your website with third-party services through API integration.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Security Implementation</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Ensuring robust security measures to protect your website.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>CMS Integration</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Integrating content management systems for efficient content updates.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Backend Development</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Developing reliable and efficient backend systems.</p>
                                             </div>
                                         </div>
                                     </div>

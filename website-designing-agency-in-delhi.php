@@ -85,60 +85,60 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Custom Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Crafting unique and tailored website designs that reflect your brand identity.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Responsive Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Ensuring optimal user experience across all devices and screen sizes.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>E-commerce Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Creating intuitive and secure online stores to boost sales.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Landing Page Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Designing high-converting landing pages for effective marketing campaigns.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Website Redesign</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Modernizing existing websites to align with current trends and technologies.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Branding & Identity Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Developing cohesive brand identities with logos, color schemes, and typography.</p>
                                             </div>
                                         </div>
                                     </div>

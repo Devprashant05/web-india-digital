@@ -68,11 +68,12 @@
                             <div class="icon-box"><i class="flaticon-data"></i></div>
                             <h3><a href="website-designing-agency-in-delhi.php">Website Designing</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>NLP & Text Analysis</li>
-                                <li><span class="dots"></span>Business Task Analysis</li>
-                                <li><span class="dots"></span>Modelling</li>
-                                <li><span class="dots"></span>Model Testing</li>
-                                <li><span class="dots"></span>Text Analysis</li>
+                                <li><span class="dots"></span>Custom Design</li>
+                                <li><span class="dots"></span>Responsive Design</li>
+                                <li><span class="dots"></span>E-commerce Design</li>
+                                <li><span class="dots"></span>Landing Page Design</li>
+                                <li><span class="dots"></span>Website Redesign</li>
+                                <li><span class="dots"></span>Branding & Identity Design</li>
                             </ul>
                             <figure class="image-box"><img src="assets/images/service/service-7.png" alt=""></figure>
                             <div class="link"><a href="website-designing-agency-in-delhi.php" class="btn-style-four">Read More<span>+</span></a></div>
@@ -83,11 +84,12 @@
                             <div class="icon-box"><i class="flaticon-vr"></i></div>
                             <h3><a href="digital-marketing-agency-in-delhi.php">Digital Marketing</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>Deep Learning</li>
-                                <li><span class="dots"></span>Predictive Analysis</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
+                                <li><span class="dots"></span>Search Engine Optimization (SEO)</li>
+                                <li><span class="dots"></span>Social Media Optimization (SMO)</li>
+                                <li><span class="dots"></span>Pay-Per-Click Advertising (PPC)</li>
+                                <li><span class="dots"></span>Online Reputation Management</li>
+                                <li><span class="dots"></span>Conversion Rate Optimization (CRO)</li>
+                                <li><span class="dots"></span>Analytics & Reporting</li>
                             </ul>
                             <figure class="image-box"><img src="assets/images/service/service-8.png" alt=""></figure>
                             <div class="link"><a href="digital-marketing-agency-in-delhi.php" class="btn-style-four">Read More<span>+</span></a></div>
@@ -98,11 +100,12 @@
                             <div class="icon-box"><i class="flaticon-vr"></i></div>
                             <h3><a href="ui-ux-design-agency-in-delhi.php">UI/UX Design</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>Deep Learning</li>
-                                <li><span class="dots"></span>Predictive Analysis</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
+                                <li><span class="dots"></span>User Research and Analysis</li>
+                                <li><span class="dots"></span>Wireframing and Prototyping</li>
+                                <li><span class="dots"></span>Interaction Design</li>
+                                <li><span class="dots"></span>Usability Testing</li>
+                                <li><span class="dots"></span>Accessibility Design</li>
+                                <li><span class="dots"></span>Visual Design</li>
                             </ul>
                             <figure class="image-box"><img src="assets/images/service/service-8.png" alt=""></figure>
                             <div class="link"><a href="ui-ux-design-agency-in-delhi.php" class="btn-style-four">Read More<span>+</span></a></div>
@@ -115,11 +118,12 @@
                             <div class="icon-box"><i class="flaticon-brain"></i></div>
                             <h3><a href="website-development-agency-in-delhi.php">Website Development</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>Deep Learning</li>
-                                <li><span class="dots"></span>Predictive Analysis</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
-                                <li><span class="dots"></span>Natural Language Processing</li>
+                                <li><span class="dots"></span>Custom Website Developement</li>
+                                <li><span class="dots"></span>E-commerce Solutions</li>
+                                <li><span class="dots"></span>API Integration</li>
+                                <li><span class="dots"></span>Security Implementation</li>
+                                <li><span class="dots"></span>CMS Integration</li>
+                                <li><span class="dots"></span>Backend Developement</li>
                             </ul>
                             <figure class="image-box"><img src="assets/images/service/service-9.png" alt=""></figure>
                             <div class="link"><a href="website-development-agency-in-delhi.php" class="btn-style-four">Read More<span>+</span></a></div>
@@ -130,11 +134,12 @@
                             <div class="icon-box"><i class="flaticon-analytics"></i></div>
                             <h3><a href="mobile-app-development-agency-in-delhi.php">Mobile App Developement</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>NLP & Text Analysis</li>
-                                <li><span class="dots"></span>Business Task Analysis</li>
-                                <li><span class="dots"></span>Modelling</li>
-                                <li><span class="dots"></span>Model Testing</li>
-                                <li><span class="dots"></span>Text Analysis</li>
+                                <li><span class="dots"></span>Custom Mobile App Developement</li>
+                                <li><span class="dots"></span>Native App Developement</li>
+                                <li><span class="dots"></span>Hybrid App Developement</li>
+                                <li><span class="dots"></span>App Testing and QA</li>
+                                <li><span class="dots"></span>App Maintenance and Support</li>
+                                <li><span class="dots"></span>App Store Deployment</li>
                             </ul>
                             <figure class="image-box"><img src="assets/images/service/service-10.png" alt=""></figure>
                             <div class="link"><a href="mobile-app-development-agency-in-delhi.php" class="btn-style-four">Read More<span>+</span></a></div>
@@ -145,11 +150,12 @@
                             <div class="icon-box"><i class="flaticon-analytics"></i></div>
                             <h3><a href="graphic-designing-agency-in-delhi.php">Graphic Designing</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>NLP & Text Analysis</li>
-                                <li><span class="dots"></span>Business Task Analysis</li>
-                                <li><span class="dots"></span>Modelling</li>
-                                <li><span class="dots"></span>Model Testing</li>
-                                <li><span class="dots"></span>Text Analysis</li>
+                                <li><span class="dots"></span>Logo and Branding Design</li>
+                                <li><span class="dots"></span>Digital Graphics</li>
+                                <li><span class="dots"></span>Social Media Graphics</li>
+                                <li><span class="dots"></span>Packaging Design</li>
+                                <li><span class="dots"></span>Infographic Design</li>
+                                <li><span class="dots"></span>Motion Design</li>
                             </ul>
                             <figure class="image-box"><img src="assets/images/service/service-10.png" alt=""></figure>
                             <div class="link"><a href="graphic-designing-agency-in-delhi.php" class="btn-style-four">Read More<span>+</span></a></div>
@@ -237,7 +243,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-analytics"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="3500">0</span>+
+                                <span class="count-text" data-speed="1500" data-stop="500">0</span>+
                             </div>
                             <h4>Projects Completed</h4>
                             <p>Delivering excellence through every project we undertake.</p>
@@ -249,7 +255,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-brain-1"></i></div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="1500" data-stop="1867">0</span>
+                                <span class="count-text" data-speed="1500" data-stop="100">0</span>+
                             </div>
                             <h4>Industries Covered</h4>
                             <p>Adapting our expertise to diverse industry needs.</p>
