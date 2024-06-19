@@ -85,68 +85,68 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Logo and Branding Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Creating memorable logos and cohesive branding materials.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Digital Graphics </h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Creating engaging digital graphics for online use.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Social Media Graphics </h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Creating visually engaging graphics for social media platforms.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Packaging Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Developing eye-catching packaging that stands out.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Infographic Design </h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Designing informative and visually appealing infographics.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Motion Graphics </h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Developing dynamic motion graphics to captivate your audience.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="application-box">
-                                <h3>Application areas</h3>
-                                <p>We denounce with righteos indignation and dislikes men who are so beguiled demoralized cof pleasure of the moment.</p>
+                            <h3>Technologies and Tools We Use</h3>
+                            <p>At Web India Digital, we leverage cutting-edge technologies and industry-leading software to deliver innovative and effective solutions for all your digital needs.</p>
                                 <div class="inner clearfix">
                                     <div class="single-item">
                                         <div class="box">

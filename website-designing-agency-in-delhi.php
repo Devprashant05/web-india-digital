@@ -145,9 +145,8 @@
                                 </div>
                             </div>
                             <div class="application-box">
-                                <h3>Application areas</h3>
-                                <p>We denounce with righteos indignation and dislikes men who are so beguiled demoralized cof pleasure of the moment.</p>
-                                <div class="inner clearfix">
+                            <h3>Technologies and Tools We Use</h3>
+                            <p>At Web India Digital, we leverage cutting-edge technologies and industry-leading software to deliver innovative and effective solutions for all your digital needs.</p>                                <div class="inner clearfix">
                                     <div class="single-item">
                                         <div class="box">
                                             <i class="flaticon-product"></i>

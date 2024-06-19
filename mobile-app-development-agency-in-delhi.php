@@ -85,68 +85,68 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Custom App Development</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Creating tailored mobile applications for your specific needs.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Native App Development</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Creating high-performance apps with native capabilities.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Hybrid App Development</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Combining the best of web and native apps for optimal performance.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>App Testing and QA</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Ensuring flawless performance through rigorous testing and quality assurance.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>App Maintenance and Support</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Providing ongoing support and updates for your mobile apps.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>App Store Deployment</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Handling the entire app submission process for app stores.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="application-box">
-                                <h3>Application areas</h3>
-                                <p>We denounce with righteos indignation and dislikes men who are so beguiled demoralized cof pleasure of the moment.</p>
+                            <h3>Technologies and Tools We Use</h3>
+                            <p>At Web India Digital, we leverage cutting-edge technologies and industry-leading software to deliver innovative and effective solutions for all your digital needs.</p>
                                 <div class="inner clearfix">
                                     <div class="single-item">
                                         <div class="box">

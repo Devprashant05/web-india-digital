@@ -134,7 +134,7 @@
                             <div class="icon-box"><i class="flaticon-analytics"></i></div>
                             <h3><a href="mobile-app-development-agency-in-delhi.php">Mobile App Developement</a></h3>
                             <ul class="list-item clearfix">
-                                <li><span class="dots"></span>Custom Mobile App Developement</li>
+                                <li><span class="dots"></span>Custom App Developement</li>
                                 <li><span class="dots"></span>Native App Developement</li>
                                 <li><span class="dots"></span>Hybrid App Developement</li>
                                 <li><span class="dots"></span>App Testing and QA</li>

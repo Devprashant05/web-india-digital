@@ -85,68 +85,68 @@
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>User Research and Analysis</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Conducting thorough research to understand user needs and behaviors.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Wireframing and Prototyping</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Creating detailed wireframes and prototypes to visualize user interfaces.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Interaction Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Designing interactive elements to enhance user engagement.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Usability Testing</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Conducting tests to ensure a user-friendly experience.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-analysis"></i></div>
                                                 <span>Service</span>
-                                                <h4>Operational Anaytics</h4>
+                                                <h4>Accessbility Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
+                                                <p>Designing inclusive experiences for users of all abilities.</p>
                                             </div>
                                         </div>
                                         <div class="single-item">
                                             <div class="box">
                                                 <div class="icon-box"><i class="flaticon-google-analytics"></i></div>
                                                 <span>Service</span>
-                                                <h4>Stream Analytics</h4>
+                                                <h4>Visual Design</h4>
                                             </div>
                                             <div class="inner">
-                                                <p>Take a trivials example, which of us every undertakes some advantages.</p>
+                                                <p>Conducting tests to ensure a user-friendly experience.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="application-box">
-                                <h3>Application areas</h3>
-                                <p>We denounce with righteos indignation and dislikes men who are so beguiled demoralized cof pleasure of the moment.</p>
+                            <h3>Technologies and Tools We Use</h3>
+                            <p>At Web India Digital, we leverage cutting-edge technologies and industry-leading software to deliver innovative and effective solutions for all your digital needs.</p>
                                 <div class="inner clearfix">
                                     <div class="single-item">
                                         <div class="box">

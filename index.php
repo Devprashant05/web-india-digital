@@ -552,7 +552,7 @@
                                 <div class="testimonial-content">
                                     <div class="content-box">
                                         <div class="text">
-                                            <p>As a growing company, we found in Naxly’ expertise in data science invaluable. In almost two years of cooperation, they’ve helped us define our data.</p>
+                                            <p>Working with Web India Digital has been a game-changer for our business. Their expertise in website design and development helped us create a stunning online presence that truly reflects our brand. The team was professional, responsive, and dedicated to delivering exceptional results. We couldn’t be happier with the outcome!</p>
                                         </div>
                                         <div class="author-info">
                                             <h4>Zedrew Kowzel</h4>
@@ -595,7 +595,7 @@
                                 <div class="testimonial-content">
                                     <div class="content-box">
                                         <div class="text">
-                                            <p>As a growing company, we found in Naxly’ expertise in data science invaluable. In almost two years of cooperation, they’ve helped us define our data.</p>
+                                            <p>From the initial consultation to the final launch, Web India Digital exceeded our expectations at every step. Their innovative approach to digital marketing significantly boosted our online visibility and customer engagement. The results speak for themselves, and we highly recommend their services to any business looking to grow.</p>
                                         </div>
                                         <div class="author-info">
                                             <h4>Tomas Adison</h4>
@@ -638,7 +638,7 @@
                                 <div class="testimonial-content">
                                     <div class="content-box">
                                         <div class="text">
-                                            <p>As a growing company, we found in Naxly’ expertise in data science invaluable. In almost two years of cooperation, they’ve helped us define our data.</p>
+                                            <p>Choosing Web India for our mobile app development was the best decision we made. They transformed our ideas into a user-friendly, feature-rich app that our customers love. The team's commitment to quality and attention to detail was evident throughout the entire project. We look forward to working with them again!</p>
                                         </div>
                                         <div class="author-info">
                                             <h4>Tomas Adison</h4>
