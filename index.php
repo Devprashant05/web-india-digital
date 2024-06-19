@@ -555,8 +555,8 @@
                                             <p>Working with Web India Digital has been a game-changer for our business. Their expertise in website design and development helped us create a stunning online presence that truly reflects our brand. The team was professional, responsive, and dedicated to delivering exceptional results. We couldn’t be happier with the outcome!</p>
                                         </div>
                                         <div class="author-info">
-                                            <h4>Zedrew Kowzel</h4>
-                                            <span class="designation">CTO of Neuro Jump Solution</span>
+                                            <h4>Mr. Sumit Kumar</h4>
+                                            <span class="designation">CEO of Fundmitr</span>
                                         </div>
                                         <figure class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></figure>
                                     </div>
@@ -598,8 +598,8 @@
                                             <p>From the initial consultation to the final launch, Web India Digital exceeded our expectations at every step. Their innovative approach to digital marketing significantly boosted our online visibility and customer engagement. The results speak for themselves, and we highly recommend their services to any business looking to grow.</p>
                                         </div>
                                         <div class="author-info">
-                                            <h4>Tomas Adison</h4>
-                                            <span class="designation">MD of SAT Solution</span>
+                                            <h4>Mr. Deepak Yadav</h4>
+                                            <span class="designation">MD of Sai Samarth Industries</span>
                                         </div>
                                         <figure class="icon-box"><img src="assets/images/icons/icon-2.png" alt=""></figure>
                                     </div>
@@ -641,8 +641,8 @@
                                             <p>Choosing Web India for our mobile app development was the best decision we made. They transformed our ideas into a user-friendly, feature-rich app that our customers love. The team's commitment to quality and attention to detail was evident throughout the entire project. We look forward to working with them again!</p>
                                         </div>
                                         <div class="author-info">
-                                            <h4>Tomas Adison</h4>
-                                            <span class="designation">SEO Manager</span>
+                                            <h4>Mr. Rakesh Alhawat</h4>
+                                            <span class="designation">Manager of Shine Elevator</span>
                                         </div>
                                         <figure class="icon-box"><img src="assets/images/icons/icon-3.png" alt=""></figure>
                                     </div>

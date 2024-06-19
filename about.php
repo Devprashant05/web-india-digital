@@ -87,10 +87,6 @@
                                 <p>Our journey began with a simple yet powerful idea: to transform the digital experience for businesses of all sizes. </p>
                                 <p>Fuelled by innovation and guided by a customer-centric approach, we set out to create a company that would redefine industry standards and exceed client expectations. Since our inception, we've remained true to our core values of integrity, collaboration, and continuous improvement, earning the trust and loyalty of clients worldwide.</p>
                             </div>
-                            <div class="video-btn">
-                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&t=28s" class="lightbox-image" data-caption=""><i class="flaticon-play-button"></i></a>
-                                <h5>Video Intro<br>About Our Company</h5>
-                            </div>
                         </div>
                     </div>
                 </div>
